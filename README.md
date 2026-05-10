@@ -1,4 +1,4 @@
-# Multimodal RAG - Bank Mandiri 2025 Report
+# Multimodal RAG
 
 > **AI Engineer Intern Technical Test**
 >
