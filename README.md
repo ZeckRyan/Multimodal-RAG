@@ -25,7 +25,6 @@
 │       └── html_generator.py     <- HTML/CSS overlay generator
 ├── output/                 <- slide HTML results (auto-generated)
 ├── chroma_db/              <- ChromaDB vector store (auto-generated)
-├── .env                    <- API keys (DO NOT commit!)
 ├── .env.example
 ├── requirements.txt
 └── README.md
