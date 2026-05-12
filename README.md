@@ -244,4 +244,4 @@ Local setup without Docker, persistent storage, directly compatible with LangCha
 
 **Technical Test - AI Engineer Intern**
 
-Stack: FastAPI · LangGraph · Gemini 1.5 Flash · ChromaDB · EasyOCR · OpenCV
+Stack: FastAPI · LangGraph · Gemini 2.5 Flash · ChromaDB · EasyOCR · OpenCV
