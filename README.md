@@ -38,7 +38,7 @@
 | ----------------- | ---------------------------------------------------- |
 | API Framework     | FastAPI + Uvicorn                                    |
 | Orchestration     | **LangGraph** (agentic workflow)                     |
-| LLM & Vision      | **Google Gemini 1.5 Flash**                          |
+| LLM & Vision      | **Google Gemini 2.5 Flash**                          |
 | Embedding         | `models/text-embedding-004` (Gemini)                 |
 | PDF Parser        | `pymupdf4llm` + `pdfplumber` + `PyMuPDF`             |
 | Vector DB         | **ChromaDB** (persistent, no Docker)                 |
