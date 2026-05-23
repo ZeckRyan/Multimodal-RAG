@@ -1,6 +1,5 @@
 # Multimodal RAG
 
-> **AI Engineer Intern Technical Test**
 >
 > A multimodal RAG system capable of answering questions from PDF documents containing text, tables, and charts - as well as a text extraction pipeline from presentation slides to HTML.
 
@@ -9,9 +8,6 @@
 ## Project Structure
 
 ```text
-├── data/
-│   ├── Laporan Keuangan Bank Mandiri 2025.pdf
-│   └── Sampel Slide Presentasi/        <- slide images (5 JPG files)
 ├── src/
 │   ├── rag_api/
 │   │   ├── config.py       <- centralized config (paths, model names)
@@ -242,6 +238,5 @@ Local setup without Docker, persistent storage, directly compatible with LangCha
 
 ## Author
 
-**Technical Test - AI Engineer Intern**
 
 Stack: FastAPI · LangGraph · Gemini 2.5 Flash · ChromaDB · EasyOCR · OpenCV
